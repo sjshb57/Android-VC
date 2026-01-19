@@ -352,3 +352,5 @@ https://dl.google.com/android/studio/metadata/distributions.json
 | U          | 14     | 34       | 17.2%     |  
 | V          | 15     | 35       | 19.3%     |  
 | B          | 16     | 36       | 7.4%      |
+
+> 注：分布比例数据截至2025年12月，单位为百分比。
